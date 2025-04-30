@@ -1,8 +1,8 @@
-## Hi, i'm Nestor Elena👋
 
+![Perfil](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nestor%20Elena%20&fontAlign=50&textBg=false&animation=twinkling&strokeWidth=1)
 ---
 
- <h1>🔌 **Sobre mi**</h1>
+ <h1>🔌Sobre mi </h1>
 
 - :boom: **Estudiante en Desarrollo de Software Multiplataformas** :boom:
 
@@ -18,7 +18,7 @@
 
 ## :point_down: Contactame mediante :point_down:
 
- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FNestorElena
+ ![GitHub](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FNestorElena
  )
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/NestorElena/NestorElena)
