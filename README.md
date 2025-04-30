@@ -2,11 +2,11 @@
 
 :boom: **Estudiante en Desarrollo de Software Multiplataformas** :boom:
 
-:branin: **Me gusta aprender**
+:brain: **Me gusta aprender**
 
-:corn.**Los elotes**
+:corn:**Los elotes**
 
-:guitar: **Música**
+:guitar: **La Música**
 
  ### :point_down: Contactame mediante 🛜
 
