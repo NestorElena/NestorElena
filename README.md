@@ -6,7 +6,7 @@
 
 - :boom: **Estudiante en Desarrollo de Software Multiplataformas** :boom:
 
-- 📍 **Location:** <a href="https://maps.app.goo.gl/Qa86PXzRYnqsuYJ69">Jalisco, México</a>
+- 📍 **Location:** 00<a href="https://maps.app.goo.gl/Qa86PXzRYnqsuYJ69">Jalisco, México</a>
 
 - :brain: **Me gusta aprender**
 
@@ -16,7 +16,7 @@
 
 ---
 
-## :point_down: Contactame mediante :point:
+## :point_down: Contactame mediante :point_down:
 
  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FNestorElena
  )
