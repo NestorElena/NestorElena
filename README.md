@@ -43,6 +43,5 @@
 ---
 
 ### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--ERECENT_ATIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
