@@ -6,7 +6,7 @@
 
 - :boom: **Estudiante en Desarrollo de Software Multiplataformas** :boom:
 
-- 📍 **Location:** 00<a href="https://maps.app.goo.gl/Qa86PXzRYnqsuYJ69">Jalisco, México</a>
+- 📍 **Location:** <a href="https://maps.app.goo.gl/Qa86PXzRYnqsuYJ69">Jalisco, México</a>
 
 - :brain: **Me gusta aprender**
 
